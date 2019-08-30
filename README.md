@@ -13,7 +13,7 @@ find the right password for the developed login system.
 ## 2: Shift Cipher Techniques
 
 Objective: - To understand the concept of Shift Ciphers.
-**1. Implement a program to show the working of Caesar cipher.
+**1. Implement a program to show the working of Caesar cipher.**
 
 The Caesar cipher is one of the earliest known and simplest ciphers. It is a type of substitution cipher in which each letter  in the plaintext is 'shifted' a certain number of places down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on. The method is named after Julius Caesar, who apparently used it to communicate with his generals.
 
