@@ -61,6 +61,8 @@ Y   Y Z A B C D E F G H I J K L M N O P Q R S T U V W X
 Z   Z A B C D E F G H I J K L M N O P Q R S T U V W X Y
 </pre>
 
+![Screenshot Solution](assets/images/2-2.jpg)
+
 -------------------------------------------------------------------------------------
 
 ## 3: DES Encryption Techniques
