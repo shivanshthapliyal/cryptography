@@ -1,6 +1,6 @@
 # cryptography
 
-##1: Classical Encryption Techniques
+## 1: Classical Encryption Techniques
 
 Objective: - To understand the concept of passwords, Brute Force Techniques.
 1. Develop a program to show the workings of substitution method.
