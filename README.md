@@ -19,11 +19,19 @@ find the right password for the developed login system.
 
 The Caesar cipher is one of the earliest known and simplest ciphers. It is a type of substitution cipher in which each letter  in the plaintext is 'shifted' a certain number of places down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on. The method is named after Julius Caesar, who apparently used it to communicate with his generals.
 
+Here is a quick example of the encryption and decryption steps involved with the caesar cipher. The text we will encrypt is 'defend the east wall of the castle', with a shift (key) of 1.
+
+<pre>plaintext:  defend the east wall of the castle
+ciphertext: efgfoe uif fbtu xbmm pg uif dbtumf
+</pre>
+
 2. Implement a program to show the working of Vigenère cipher.
 
 The Vigenère Cipher is a polyalphabetic substitution cipher. The method was originally described by Giovan Battista Bellaso in his 1553 book La cifra del. Sig. Giovan Battista Bellaso; however, the scheme was later misattributed to Blaise de Vigenère in the 19th century, and is now widely known as the Vigenère cipher.
 
 Blaise de Vigenère actually invented the stronger Autokey cipher in 1586.
+
+The Vigenere Cipher uses the following tableau (the 'tabula recta') to encipher the plaintext:
 
 <pre>    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
     ---------------------------------------------------
