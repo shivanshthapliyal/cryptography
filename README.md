@@ -62,8 +62,9 @@ cryptography.
 
 ## 7: Hash Function
 
-Objective: - To understand the concept of Integrity, Non-repudiation and message
+### Objective: - To understand the concept of Integrity, Non-repudiation and message
 digest.
+
 1. Write a program to demonstrate the working of SHA-512.
 2. Create a mail (treat it as a string) and attach the digital signature with your mail.
 show that the attached digital signature can be used to:
