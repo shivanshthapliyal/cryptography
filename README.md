@@ -19,6 +19,9 @@ The Caesar cipher is one of the earliest known and simplest ciphers. It is a typ
 
 2. Implement a program to show the working of Vigenère cipher.
 
+The Vigenère Cipher is a polyalphabetic substitution cipher. The method was originally described by Giovan Battista Bellaso in his 1553 book La cifra del. Sig. Giovan Battista Bellaso; however, the scheme was later misattributed to Blaise de Vigenère in the 19th century, and is now widely known as the Vigenère cipher.
+
+Blaise de Vigenère actually invented the stronger Autokey cipher in 1586.
 -------------------------------------------------------------------------------------
 
 3: DES Encryption Techniques
