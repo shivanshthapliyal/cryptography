@@ -1,3 +1,5 @@
+__author__ = "Shivansh Thapliyal"
+
 #Substitution Encryption for Capital letters ONLY !!
 
 

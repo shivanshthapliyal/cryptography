@@ -1,3 +1,5 @@
+__author__ = "Shivansh Thapliyal"
+
 #Shift Encryption for Capital letters ONLY !!
 
 def Shift_Enc(pt,k):  

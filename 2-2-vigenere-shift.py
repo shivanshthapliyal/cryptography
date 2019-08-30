@@ -1,3 +1,4 @@
+__author__ = "Shivansh Thapliyal"
 
 def genKey(str1,n):
     n1 = len(str1)
