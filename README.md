@@ -25,23 +25,14 @@ The Vigenère Cipher is a polyalphabetic substitution cipher. The method was ori
 
 Blaise de Vigenère actually invented the stronger Autokey cipher in 1586.
 
-
-The Vigenere Cipher uses the following tableau (the 'tabula recta') to encipher the plaintext:
-
-    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+<pre>    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
     ---------------------------------------------------
 A   A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
----------------------------------------------------
 B   B C D E F G H I J K L M N O P Q R S T U V W X Y Z A
----------------------------------------------------
 C   C D E F G H I J K L M N O P Q R S T U V W X Y Z A B
----------------------------------------------------
 D   D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
----------------------------------------------------
 E   E F G H I J K L M N O P Q R S T U V W X Y Z A B C D
----------------------------------------------------
 F   F G H I J K L M N O P Q R S T U V W X Y Z A B C D E
----------------------------------------------------
 G   G H I J K L M N O P Q R S T U V W X Y Z A B C D E F
 H   H I J K L M N O P Q R S T U V W X Y Z A B C D E F G
 I   I J K L M N O P Q R S T U V W X Y Z A B C D E F G H
@@ -62,6 +53,7 @@ W   W X Y Z A B C D E F G H I J K L M N O P Q R S T U V
 X   X Y Z A B C D E F G H I J K L M N O P Q R S T U V W
 Y   Y Z A B C D E F G H I J K L M N O P Q R S T U V W X
 Z   Z A B C D E F G H I J K L M N O P Q R S T U V W X Y
+</pre>
 
 -------------------------------------------------------------------------------------
 
