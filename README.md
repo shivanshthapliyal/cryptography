@@ -73,6 +73,8 @@ Z   Z A B C D E F G H I J K L M N O P Q R S T U V W X Y
 
 #### 1. Implement the Data Encryption Standards.
 
+DES is a block cipher, and encrypts data in blocks of size of 64 bit each, means 64 bits of plain text goes as the input to DES, which produces 64 bits of cipher text. The same algorithm and key are used for encryption and decryption, with minor differences. 
+
 -------------------------------------------------------------------------------------
 
 ## 4: AES Encryption Techniques
