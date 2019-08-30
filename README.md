@@ -101,5 +101,5 @@ Z   Z A B C D E F G H I J K L M N O P Q R S T U V W X Y
 
 #### 1. Write a program to demonstrate the working of SHA-512.
 #### 2. Create a mail (treat it as a string) and attach the digital signature with your mail. Show that the attached digital signature can be used to:
-#### a. Verify the author and the date and time of the signature.
-#### b. Authenticate the contents at the time of the signature.
+##### a. Verify the author and the date and time of the signature.
+##### b. Authenticate the contents at the time of the signature.
