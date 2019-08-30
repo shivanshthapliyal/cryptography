@@ -2,7 +2,8 @@
 
 ## 1: Classical Encryption Techniques
 
-Objective: - To understand the concept of passwords, Brute Force Techniques.
+### Objective: - To understand the concept of passwords, Brute Force Techniques.
+
 1. Develop a program to show the workings of substitution method.
 2. Develop a login system, which will take two inputs username and password (4 digit
 pin). As an Adversary develop a program, which will generate passwords serially, and
@@ -12,8 +13,9 @@ find the right password for the developed login system.
 
 ## 2: Shift Cipher Techniques
 
-Objective: - To understand the concept of Shift Ciphers.
-**1. Implement a program to show the working of Caesar cipher.**
+### Objective: - To understand the concept of Shift Ciphers.
+
+1. Implement a program to show the working of Caesar cipher.
 
 The Caesar cipher is one of the earliest known and simplest ciphers. It is a type of substitution cipher in which each letter  in the plaintext is 'shifted' a certain number of places down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on. The method is named after Julius Caesar, who apparently used it to communicate with his generals.
 
@@ -27,21 +29,24 @@ Blaise de Vigenère actually invented the stronger Autokey cipher in 1586.
 
 ## 3: DES Encryption Techniques
 
-Objective: - To understand the concept of Block Ciphers
+### Objective: - To understand the concept of Block Ciphers
+
 1. Implement the Data Encryption Standards.
 
 -------------------------------------------------------------------------------------
 
 ## 4: AES Encryption Techniques
 
-Objective: - To understand the concept of Block Ciphers
+### Objective: - To understand the concept of Block Ciphers
+
 1. Implement the Advanced Encryption Standards.
 
 -------------------------------------------------------------------------------------
 
 ## 5: Public key Cryptography:
 
-Objective: - To understand the concept of secret key, cipher and plain text.
+### Objective: - To understand the concept of secret key, cipher and plain text.
+
 1. Design a system, which will demonstrate the working of RSA public key
 cryptography.
 
@@ -49,7 +54,8 @@ cryptography.
 
 ## 6: Diffie Hellman Key Exchange Algorithm:
 
-Objective: - To understand the concept of exchanging keys through Diffie Hellman.
+### Objective: - To understand the concept of exchanging keys through Diffie Hellman.
+
 1. Design a system, which will demonstrate the working of Diffie Hellman.
 
 -------------------------------------------------------------------------------------
