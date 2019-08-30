@@ -1,4 +1,4 @@
-# cryptography
+# Cryptography
 
 ## 1: Classical Encryption Techniques
 
@@ -10,7 +10,7 @@ find the right password for the developed login system.
 
 -------------------------------------------------------------------------------------
 
-2: Shift Cipher Techniques
+## 2: Shift Cipher Techniques
 
 Objective: - To understand the concept of Shift Ciphers.
 1. Implement a program to show the working of Caesar cipher.
@@ -25,21 +25,21 @@ Blaise de Vigenère actually invented the stronger Autokey cipher in 1586.
 
 -------------------------------------------------------------------------------------
 
-3: DES Encryption Techniques
+## 3: DES Encryption Techniques
 
 Objective: - To understand the concept of Block Ciphers
 1. Implement the Data Encryption Standards.
 
 -------------------------------------------------------------------------------------
 
-4: AES Encryption Techniques
+## 4: AES Encryption Techniques
 
 Objective: - To understand the concept of Block Ciphers
 1. Implement the Advanced Encryption Standards.
 
 -------------------------------------------------------------------------------------
 
-5: Public key Cryptography:
+## 5: Public key Cryptography:
 
 Objective: - To understand the concept of secret key, cipher and plain text.
 1. Design a system, which will demonstrate the working of RSA public key
@@ -47,14 +47,14 @@ cryptography.
 
 -------------------------------------------------------------------------------------
 
-6: Diffie Hellman Key Exchange Algorithm:
+## 6: Diffie Hellman Key Exchange Algorithm:
 
 Objective: - To understand the concept of exchanging keys through Diffie Hellman.
 1. Design a system, which will demonstrate the working of Diffie Hellman.
 
 -------------------------------------------------------------------------------------
 
-7: Hash Function
+## 7: Hash Function
 
 Objective: - To understand the concept of Integrity, Non-repudiation and message
 digest.
