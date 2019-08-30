@@ -23,6 +23,8 @@ Here is a quick example of the encryption and decryption steps involved with the
 ciphertext: efgfoe uif fbtu xbmm pg uif dbtumf
 </pre>
 
+![Screenshot Solution](assets/images/2-1.png)
+
 #### 2. Implement a program to show the working of Vigenère cipher.
 
 The Vigenère Cipher is a polyalphabetic substitution cipher. The method was originally described by Giovan Battista Bellaso in his 1553 book La cifra del. Sig. Giovan Battista Bellaso; however, the scheme was later misattributed to Blaise de Vigenère in the 19th century, and is now widely known as the Vigenère cipher.
