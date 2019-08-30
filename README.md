@@ -4,8 +4,8 @@
 
 ### Objective: - To understand the concept of passwords, Brute Force Techniques.
 
-1. Develop a program to show the workings of substitution method.
-2. Develop a login system, which will take two inputs username and password (4 digit
+#### 1. Develop a program to show the workings of substitution method.
+#### 2. Develop a login system, which will take two inputs username and password (4 digit
 pin). As an Adversary develop a program, which will generate passwords serially, and
 find the right password for the developed login system.
 
@@ -15,7 +15,7 @@ find the right password for the developed login system.
 
 ### Objective: - To understand the concept of Shift Ciphers.
 
-1. Implement a program to show the working of Caesar cipher.
+#### 1. Implement a program to show the working of Caesar cipher.
 
 The Caesar cipher is one of the earliest known and simplest ciphers. It is a type of substitution cipher in which each letter  in the plaintext is 'shifted' a certain number of places down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on. The method is named after Julius Caesar, who apparently used it to communicate with his generals.
 
@@ -25,7 +25,7 @@ Here is a quick example of the encryption and decryption steps involved with the
 ciphertext: efgfoe uif fbtu xbmm pg uif dbtumf
 </pre>
 
-2. Implement a program to show the working of Vigenère cipher.
+#### 2. Implement a program to show the working of Vigenère cipher.
 
 The Vigenère Cipher is a polyalphabetic substitution cipher. The method was originally described by Giovan Battista Bellaso in his 1553 book La cifra del. Sig. Giovan Battista Bellaso; however, the scheme was later misattributed to Blaise de Vigenère in the 19th century, and is now widely known as the Vigenère cipher.
 
